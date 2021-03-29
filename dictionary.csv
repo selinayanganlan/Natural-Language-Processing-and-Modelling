@@ -1,0 +1,11 @@
+ID,Unique ID of the review
+Product_ID,ID of the product
+Age,Age of the consumer
+Review_Title,Title of the review written by the consumer
+Review_Text,Text of the review written by the consumer
+Rating,Product rating by the consumer
+Recommended,Whether the product is recommended or not by the consumer
+Positive_Feedback_Count,Number of positive feedback on the review
+Division,Name of the division the product is in
+Department,Name of the department the product is in
+Type,Type of the product
